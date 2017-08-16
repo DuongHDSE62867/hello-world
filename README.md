@@ -1,4 +1,3 @@
-# hello-world
-My first repository.
+# loopskill.com
 
 My name is Duong.
